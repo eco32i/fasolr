@@ -87,6 +87,7 @@ NautilusSearchBar .entry {
 
 .nautilus-cluebar-label {
     font: bold;
+    color: mix (@fg_color, @cluebar_color, 0.2);
     text-shadow: 0 1px shade (@cluebar_color, 1.06);
 }
 
@@ -101,6 +102,7 @@ NautilusSearchBar .entry {
 }
 
 NautilusFloatingBar {
+    color: @info_fg_color;
     background-color: @info_bg_color;
     border-radius: 3px 3px 0 0;
     border-style: solid;
