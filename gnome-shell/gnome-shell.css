@@ -20,6 +20,7 @@
 /* Text Styles */
 
 /* default text style */
+
 stage {
     font-family: ubuntu, cantarell, sans-serif;
     font-size: 10pt;
@@ -174,7 +175,7 @@ StScrollBar StButton#hhandle:active {
 .popup-menu {
     /*color: #ddd;*/
     color: #839496;
-    border: 1px solid #268bd2;
+    /*border: 1px solid #268bd2;*/
     min-width: 200px;
 }
 
