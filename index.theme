@@ -1,15 +1,10 @@
-
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Faience
-Comment=Faience GTK2 / GTK3 theme
+Name=Evolve
+Comment=A simple and minimal light theme
 Encoding=UTF-8
 
-Name[en]=index.theme
-
 [X-GNOME-Metatheme]
-GtkTheme=Faience
-MetacityTheme=Faience
-IconTheme=Faience
-CursorTheme=DMZ-Black
-ButtonLayout=close,minimize,maximize:menu
+GtkTheme=Evolve
+MetacityTheme=Evolve
+ButtonLayout=close,minimize,maximize:
