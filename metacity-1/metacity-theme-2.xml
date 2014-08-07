@@ -10,7 +10,6 @@
 
 <!-- ::: CONSTANTS ::: -->
 <constant name="C_titlebar_gradient_a" value="shade/gtk:bg[NORMAL]/1.05" />
-<constant name="C_titlebar_gradient_a" value="gtk:bg[NORMAL]" />
 <constant name="C_titlebar_gradient_b" value="gtk:bg[NORMAL]" />
 <constant name="C_border_focused" value="shade/gtk:bg[NORMAL]/0.7" />
 <constant name="C_border_unfocused" value="shade/gtk:bg[NORMAL]/0.8" />

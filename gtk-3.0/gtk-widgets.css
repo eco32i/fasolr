@@ -1343,6 +1343,11 @@ GtkModelButton.button:selected {
 }
 
 .notebook tab GtkLabel {
+    color: shade(@theme_text_color, 0.8)
+}
+
+
+.notebook tab:active GtkLabel {
     color: @theme_text_color;
 }
 
