@@ -11,8 +11,8 @@
 <!-- ::: CONSTANTS ::: -->
 <constant name="C_titlebar_gradient_a" value="#586e75" />
 <constant name="C_titlebar_gradient_b" value="#495664" />
-<constant name="C_border_focused" value="gtk:custom(wm_border_focused,shade/gtk:bg[NORMAL]/0.7)" />
-<constant name="C_border_unfocused" value="gtk:custom(wm_border_unfocused,shade/gtk:bg[NORMAL]/0.8)" />
+<constant name="C_border_focused" value="#002b36" />
+<constant name="C_border_unfocused" value="#586e75" />
 <constant name="C_title_focused" value="#abada9" />
 <constant name="C_title_unfocused" value="#839496" />
 
